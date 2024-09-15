@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Alice0416
 - 👀 I’m interested in machine learning
-- 🌱 I’m currently learning engineering
+- 🌱 I’m currently learning engineering science
 - 💞️ I’m looking to collaborate on any coding practice
 - 📫 How to reach me ...
 
